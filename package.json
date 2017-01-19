@@ -2,7 +2,7 @@
   "name": "guppy",
   "version": "1.0.0",
   "description": "",
-  "main": "gulpfile.js",
+  "main": "./src/index.js",
   "devDependencies": {
     "babel-preset-es2015-rollup": "^1.2.0",
     "babel-preset-stage-0": "^6.5.0",
